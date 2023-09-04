@@ -8,7 +8,7 @@ In this project, we applied three types of supervised deep learning models to pr
 * We decomposed wind speed signals by Empirical wavelet transform.
 ### 3. FlowChart
 The figure is the flowchart of the project.  
-
+![FlowChart](https://github.com/a303990366/Ensemble-Deep-Reinforcement-Learning-in-Wind-Speed-Prediction/blob/main/FlowChart.png)
 Procedure:   
 3-1. I change the time frequency of datasets from hourly to daily dataset, and then I replace missing values with an interpolate function.  
 
